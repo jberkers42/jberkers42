@@ -45,6 +45,15 @@ One of the tents of a SOAR platform is to provide Automation and Response to an 
 
 Most of my SmartResponse work has been in [PowerShell][pwsh].
 
+### Connect with me
+
+[<img align="left" alt="jberkers42" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="BerkersJohn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jberkers | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="john.berkers | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 ## Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
@@ -71,3 +80,6 @@ Most of my SmartResponse work has been in [PowerShell][pwsh].
 [markdown]: https://www.markdownguide.org/
 [awx]: https://github.com/ansible/awx
 [pwsh]: https://docs.microsoft.com/en-us/powershell/
+[twitter]: https://twitter.com/BerkersJohn
+[instagram]: https://instagram.com/john.berkers
+[linkedin]: https://www.linkedin.com/in/john-berkers-1075aa4
